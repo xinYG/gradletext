@@ -1,3 +1,6 @@
 {
   "settingsInheritedFrom": "xinYG/whitesource-config@master"
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
 }
