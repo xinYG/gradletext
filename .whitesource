@@ -1,6 +1,10 @@
 {
   "settingsInheritedFrom": "xinYG/whitesource-config@master",
   "scanSettings": {
-    "configMode": "LOCAL"
+    "configMode": "AUTO"
+  },
+  "remediateSettings": {
+  "enableRenovate": true,
+  "extends": ["config:base"]
   }
 }
